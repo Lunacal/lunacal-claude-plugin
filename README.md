@@ -63,8 +63,9 @@ Find "Lunacal" in the plugin directory and click Install.
 
 All requests go to `https://mcp.lunacal.ai/mcp` and from there to the Lunacal API at `app.lunacal.ai`. No data is sent anywhere else. The plugin includes no local scripts, binaries, or background processes.
 
-<!-- TODO: Add link to Lunacal privacy policy when available -->
-<!-- TODO: Add support contact email or URL -->
+- [Privacy Policy](https://lunacal.ai/privacy-policy)
+- [Terms of Service](https://lunacal.ai/terms-of-use)
+- [Support](https://lunacal.ai/contact-us)
 
 ## License
 

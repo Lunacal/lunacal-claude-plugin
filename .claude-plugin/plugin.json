@@ -8,6 +8,10 @@
     "url": "https://lunacal.ai"
   },
   "homepage": "https://lunacal.ai",
+  "icon": "https://lunacal.ai/apple-touch-icon.png",
+  "privacyPolicyUrl": "https://lunacal.ai/privacy-policy",
+  "termsOfServiceUrl": "https://lunacal.ai/terms-of-use",
+  "supportUrl": "https://lunacal.ai/contact-us",
   "repository": "https://github.com/Lunacal/lunacal-claude-plugin",
   "license": "MIT",
   "skills": [
