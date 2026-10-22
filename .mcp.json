@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lunacal": {
+      "type": "http",
+      "url": "https://mcp.lunacal.ai/mcp"
+    }
+  }
+}

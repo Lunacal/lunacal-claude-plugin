@@ -1,0 +1,18 @@
+{
+  "name": "lunacal",
+  "displayName": "Lunacal",
+  "description": "Schedule meetings, manage event types, and check availability through Lunacal's scheduling platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lunacal",
+    "url": "https://lunacal.ai"
+  },
+  "homepage": "https://lunacal.ai",
+  "repository": "https://github.com/Lunacal/lunacal-claude-plugin",
+  "license": "MIT",
+  "skills": [
+    "./skills/lunacal-scheduling",
+    "./skills/lunacal-event-types"
+  ],
+  "mcpServers": "./.mcp.json"
+}
