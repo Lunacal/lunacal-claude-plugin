@@ -43,6 +43,12 @@ Sign-in uses OAuth. When you first use a Lunacal tool, Claude will prompt you to
 ### Claude Code (CLI)
 
 ```bash
+/plugin install lunacal --marketplace Lunacal/lunacal-claude-plugin
+```
+
+Or directly:
+
+```bash
 claude plugin install lunacal
 ```
 
