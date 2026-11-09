@@ -2,7 +2,7 @@
   "name": "lunacal",
   "displayName": "Lunacal",
   "description": "Schedule meetings, manage event types, and check availability through Lunacal's scheduling platform.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Lunacal",
     "url": "https://lunacal.ai"
