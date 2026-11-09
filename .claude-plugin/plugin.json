@@ -8,7 +8,7 @@
     "url": "https://lunacal.ai"
   },
   "homepage": "https://lunacal.ai",
-  "icon": "https://lunacal.ai/apple-touch-icon.png",
+  "icon": "./icon.png",
   "privacyPolicyUrl": "https://lunacal.ai/privacy-policy",
   "termsOfServiceUrl": "https://lunacal.ai/terms-of-use",
   "supportUrl": "https://lunacal.ai/contact-us",
@@ -18,6 +18,5 @@
   "skills": [
     "./skills/lunacal-scheduling",
     "./skills/lunacal-event-types"
-  ],
-  "mcpServers": "./.mcp.json"
+  ]
 }
